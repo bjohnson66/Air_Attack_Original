@@ -1,2 +1,3 @@
 # Air_Attack_Original
 This is the original version of Air Attack, I created in middle school with the Processing JS Library. This is what I am refactoring into Air_Attack_CPP.
+This is the first game I coded without using a drag-and-drop language or being inside an online coding environment. I used Text Edit to write the code and ran it in a browser with a small HTML file. In 2020, I found an IDE specficially for Processing JS, so I copied my code into that and compiled it as an exe. I also fixed the helicopter level that I never got around to fixing before High School. The code is very sloppy, but thats why I'm refactoring it. 
